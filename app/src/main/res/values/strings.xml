@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NYTN</string>
+    <string name="new_york_times_api">New York Times API</string>
+    <string name="news_image">News Image</string>
+    <string name="read_more">Read more</string>
+    <string name="unfortunately_no_news_yet">Unfortunately no news yet</string>
+    <string name="oops_something_went_wrong">Oops! Something went wrong</string>
+    <string name="unknown_problems">Unknown error! Try again</string>
+    <string name="network_problems">There is no internet connection. Please try later</string>
+    <string name="retry_text">Error! Refresh app, please</string>
+    <string name="retry_again">Retry again</string>
+</resources>
